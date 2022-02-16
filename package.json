@@ -1,0 +1,14 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "This is express api learning application",
+  "main": "expressapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
